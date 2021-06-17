@@ -8,4 +8,4 @@
 
 ![screenshot](./example.png)
 
-p.s. Use your own Openweather KEY
+p.s. Use your own [OpenWeather](https://openweathermap.org/) KEY
