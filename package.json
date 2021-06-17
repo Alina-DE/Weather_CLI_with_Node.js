@@ -1,0 +1,23 @@
+{
+  "name": "weather-cli-alina-de",
+  "version": "1.0.0",
+  "description": "### Weather CLI",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW44-1/node-weather-cli-Alina-DE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW44-1/node-weather-cli-Alina-DE/issues"
+  },
+  "homepage": "https://github.com/FBW44-1/node-weather-cli-Alina-DE#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
